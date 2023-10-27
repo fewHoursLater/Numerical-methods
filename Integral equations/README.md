@@ -1,3 +1,2 @@
-\usepackage{mathtools}
-\begin{document}
-$'\u(x)-\int_{a}^{b}K(x,s)u(s)ds=f(x),  x\in [a,b]
+
+$u(x)-\int_{a}^{b}K(x,s)u(s)ds=f(x),  x\in [a,b]
