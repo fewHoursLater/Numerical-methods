@@ -1,2 +1,2 @@
 # Numerical methods
-Here are my programs on numerical methods
+Here are my numerical methods programs 
