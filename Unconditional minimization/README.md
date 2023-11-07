@@ -1,1 +1,1 @@
-
+Minimization of a function of two variables by the gradient descent method and the Newton method of multidimensional minimization. In the first method, the length of the step in the decreasing direction is searched using the method of dividing the segment in half, in the second using the method of splitting the step. The first method is used to roughly estimate the minimum, the second finds a more accurate solution.
